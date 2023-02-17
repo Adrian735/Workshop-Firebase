@@ -1,6 +1,6 @@
 # Workshop-Firebase
 
-Dans ce workshop vous créerez une API en Node js dans laquelle vous découvrirez comment utiliserFirebase.
+Dans ce workshop vous créerez une API en Node js dans laquelle vous découvrirez comment utiliser Firebase.
 
 ## Installation
 
