@@ -1,6 +1,6 @@
 # Workshop-Firebase
 
-Dans ce workshop vous créerez une API en Node js dans laquelle vous découvrirez comment utilisez Firebase.
+Dans ce workshop vous créerez une API en Node js dans laquelle vous découvrirez comment utiliser Firebase.
 
 ## Installation
 
@@ -14,7 +14,7 @@ il est conseillé d'installer Postman pour tester facilement les différentes ro
 
 - https://www.postman.com/
 
-#### Une fois Node js installé, utiliser les commandes:
+#### Une fois Node js installé, utilisez les commandes:
 - Pour installer les dépendances:
 
 ```
@@ -48,7 +48,7 @@ Utilisez la documentation de firebase pour réaliser les exos suivants:
 #### Exo 3- GetJoke
 - Créer une route GET /joke qui utilisera l'API Admin de Firebase pour retrouver des données stockées dans la base de donnée en ligne de Firebase. (GetJoke.js)
 
-Récupérer les blagues contenu dans l'objet MyBestJoke.
+Récupérer les blagues contenues dans l'objet MyBestJoke.
 (Par exemple: MyBestJoke/Joke-1)
 
 #### Exo 4 - PostJoke
@@ -56,10 +56,10 @@ Récupérer les blagues contenu dans l'objet MyBestJoke.
 
 - La route récupérera le contenu de votre blague dans le body de la requête.
 
-Insérer votre meilleur Joke dans l'objet YourJoke/Joke-<Votre prénom>.
+Insérez votre meilleur Joke dans l'objet YourJoke/Joke-<Votre prénom>.
 
 #### Exo Bonus - Update and Delete Joke
-- Créer les routes UPDATE et DELETE /joke pour modifier et supprimer votre blague précédement insérer dans la DB.
+- Créer les routes UPDATE et DELETE /joke pour modifier et supprimer votre blague précédement insérée dans la DB.
 
 - Note: Merci de ne pas supprimer les données insérées par les autres participants.
 
