@@ -29,6 +29,9 @@ npm start
 
 ### Exercices
 
+Pour mettre en place l'API nous allons utilisez le freamwork Express de Node js:
+- https://expressjs.com/en/starter/basic-routing.html
+
 Utilisez la documentation de firebase pour réaliser les exos suivants: 
 - https://firebase.google.com/docs/auth/admin?hl=fr
 
